@@ -1,0 +1,11 @@
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\afikshani\source\repos\B18 Ex03 Gal 203836598 Afik 302190947\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
